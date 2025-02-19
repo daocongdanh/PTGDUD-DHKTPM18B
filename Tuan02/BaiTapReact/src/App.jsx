@@ -1,10 +1,11 @@
 import "./App.css";
-import BaiTap1 from "./components/BaiTap1/BaiTap1";
+import BaiTap2 from "./components/BaiTap2/BaiTap2";
 
 function App() {
   return (
     <>
-      <BaiTap1 />
+      {/* <BaiTap1 /> */}
+      <BaiTap2 />
     </>
   );
 }
